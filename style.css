@@ -1,0 +1,32 @@
+body {
+    font-family: 'Space Mono', monospace;
+}
+* {
+  font-family: 'Space Mono', monospace;
+
+}
+
+#hidethis {
+    visibility: hidden;
+    text-align: center;
+   ;
+    
+}
+
+.inputs{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+input {
+    border: 1px dashed;
+}
+
+button {
+    background-color: white;
+    border: 1px dashed;
+}
+
